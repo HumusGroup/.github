@@ -16,7 +16,6 @@ Our work spans across:
 - AI-driven applications
 - Data-driven decision systems
 - Automation and workflow optimization
-- Blockchain and Web3 experimentation
 
 We believe technology should be:
 
